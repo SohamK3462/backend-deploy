@@ -1,6 +1,6 @@
 // Replace this with your ECS backend public URL
 //const API_BASE = "http://localhost:8080";
-const API_BASE = "http://13.61.33.227:8080"
+const API_BASE = "http://35.153.211.237:8081/"
 // -------------- SIGNUP ----------------
 const signupForm = document.getElementById("signupForm");
 if (signupForm) {
